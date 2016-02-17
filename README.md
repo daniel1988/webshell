@@ -1,5 +1,3 @@
-Php WebShell 之 Php 木马
-
-声明： 仅限于网站管理员安全检测用,请务使用于非法用途,后果作者概不负责
+Php WebShell 
 
 
